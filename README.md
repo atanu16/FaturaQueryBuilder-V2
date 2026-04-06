@@ -2,8 +2,6 @@
 
 A lightweight Windows desktop app that converts a list of Fatura lines into a ready-to-paste email subject search query.
 
-<img align="center" src="https://user-images.githubusercontent.com/83860778/208317695-04a2826a-c194-4974-a6d8-2be8e40233e4.png">
-
 <img width="652" height="587" alt="image" src="https://github.com/user-attachments/assets/90becb6c-2f91-4ca7-9c21-df40755a78ff" />
 
 
