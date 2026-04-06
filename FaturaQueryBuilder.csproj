@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>FaturaQueryBuilder</AssemblyName>
+    <RootNamespace>FaturaQueryBuilder</RootNamespace>
+    <Description>A modern tool to build Fatura query strings for email subject search.</Description>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>

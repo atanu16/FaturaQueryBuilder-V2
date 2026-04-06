@@ -1,0 +1,56 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Window -->
+    <SolidColorBrush x:Key="WindowBackgroundBrush" Color="#0F1117"/>
+
+    <!-- Card / Glass panels -->
+    <SolidColorBrush x:Key="CardBackgroundBrush" Color="#1A1D27"/>
+    <SolidColorBrush x:Key="CardBorderBrush" Color="#2A2D37"/>
+    <SolidColorBrush x:Key="GlassOverlayBrush" Color="#331A1D27"/>
+
+    <!-- Text -->
+    <SolidColorBrush x:Key="TextPrimaryBrush" Color="#F1F3F5"/>
+    <SolidColorBrush x:Key="TextSecondaryBrush" Color="#9CA3AF"/>
+    <SolidColorBrush x:Key="TextTertiaryBrush" Color="#6B7280"/>
+
+    <!-- Input -->
+    <SolidColorBrush x:Key="InputBackgroundBrush" Color="#12151E"/>
+    <SolidColorBrush x:Key="InputBorderBrush" Color="#2A2D37"/>
+    <SolidColorBrush x:Key="InputFocusBorderBrush" Color="#34D399"/>
+
+    <!-- Accent / Primary -->
+    <SolidColorBrush x:Key="AccentBrush" Color="#34D399"/>
+    <SolidColorBrush x:Key="AccentHoverBrush" Color="#10B981"/>
+    <SolidColorBrush x:Key="AccentPressedBrush" Color="#059669"/>
+    <SolidColorBrush x:Key="AccentForegroundBrush" Color="#042F2E"/>
+
+    <!-- Secondary button -->
+    <SolidColorBrush x:Key="SecondaryBrush" Color="#1F2937"/>
+    <SolidColorBrush x:Key="SecondaryHoverBrush" Color="#2A3347"/>
+    <SolidColorBrush x:Key="SecondaryForegroundBrush" Color="#D1D5DB"/>
+
+    <!-- Danger -->
+    <SolidColorBrush x:Key="DangerBrush" Color="#F87171"/>
+    <SolidColorBrush x:Key="DangerHoverBrush" Color="#EF4444"/>
+
+    <!-- Toast -->
+    <SolidColorBrush x:Key="ToastBackgroundBrush" Color="#E5E7EB"/>
+    <SolidColorBrush x:Key="ToastForegroundBrush" Color="#111827"/>
+
+    <!-- Scrollbar -->
+    <SolidColorBrush x:Key="ScrollThumbBrush" Color="#374151"/>
+
+    <!-- Badge -->
+    <SolidColorBrush x:Key="BadgeBackgroundBrush" Color="#064E3B"/>
+    <SolidColorBrush x:Key="BadgeForegroundBrush" Color="#6EE7B7"/>
+
+    <!-- Shadow -->
+    <Color x:Key="ShadowColor">#40000000</Color>
+
+    <!-- Toggle -->
+    <SolidColorBrush x:Key="ToggleOffBrush" Color="#374151"/>
+    <SolidColorBrush x:Key="ToggleOnBrush" Color="#34D399"/>
+    <SolidColorBrush x:Key="ToggleThumbBrush" Color="#FFFFFF"/>
+
+</ResourceDictionary>
